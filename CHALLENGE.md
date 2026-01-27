@@ -21,7 +21,7 @@ Tu desafío será recopilar, procesar y analizar los datos, utilizando Python y 
 
 - [API de Telecom X](https://raw.githubusercontent.com/ingridcristh/challenge2-data-science-LATAM/main/TelecomX_Data.json)
 
-## Diccionario de datos
+### Diccionario de datos
 
 - `customerID`: número de identificación único de cada cliente
 - `Churn`: si el cliente dejó o no la empresa
