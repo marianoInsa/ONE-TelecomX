@@ -604,13 +604,13 @@ Las variables críticas actúan de forma combinada, sugiriendo que clientes con 
 Gráfico waterfall (cascada) que muestra cómo cada servicio complementario adicional reduce progresivamente la tasa de churn.
 
 **Servicios Analizados:**
-1. Servicio de Internet (base)
-2. \+ Seguridad Online
-3. \+ BackUp Online
-4. \+ Protección de Dispositivo
-5. \+ Soporte Técnico
-6. \+ Streaming TV
-7. \+ Streaming Movies
+* 0: Servicio de Internet (base)
+* 1: \+ Seguridad Online
+* 2: \+ BackUp Online
+* 3: \+ Protección de Dispositivo
+* 4: \+ Soporte Técnico
+* 5: \+ Streaming TV
+* 6: \+ Streaming Movies
 
 **Insight:**  
 Cada servicio adicional reduce el churn en 8-15%, con efecto acumulativo. Clientes con 4+ servicios tienen churn <15%.
@@ -629,17 +629,17 @@ Embudo (funnel) que muestra el recorrido de clientes seniors desde la contrataci
 
 **Etapas del Funnel:**
 1. **Total Seniors:** 1,142 clientes (100%)
-2. **Con Internet:** 980 clientes (85.8%)
-3. **Con Servicios Complementarios:** 520 clientes (45.5%)
-4. **Con Contrato Anual:** 280 clientes (24.5%)
-5. **Retenidos:** 666 clientes (58.3%)
+2. **+3 meses:** 1,013 clientes (88.7%)
+3. **+6 meses:** 938 clientes (82.1%)
+4. **+12 meses:** 833 clientes (72.9%)
+5. **Retenidos (+24 meses):** 670 clientes (58.6%)
 
 **Puntos Críticos:**
-- **Mayor caída:** Servicios complementarios (40% abandono)
-- **Segunda caída:** Migración a contratos anuales (20% abandono)
+- **Mayor caída:** Contratos anuales (+12 meses) (30% abandono)
+- **Segunda caída:** Contratos por dos años (+24 meses) (40% abandono)
 
 **Recomendación:**  
-Programa Senior Care debe enfocarse en aumentar adopción de servicios complementarios en este segmento.
+Programa Senior Care debe enfocarse en aumentar adopción de servicios complementarios en estos segmentos críticos.
 
 ---
 
