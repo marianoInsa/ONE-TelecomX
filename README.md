@@ -14,18 +14,18 @@
 
 ## Tabla de Contenidos
 
-- [Descripción del Proyecto](#-descripción-del-proyecto)
-- [Problema de Negocio](#-problema-de-negocio)
-- [Objetivos](#-objetivos)
-- [Tecnologías y Herramientas](#-tecnologías-y-herramientas)
-- [Instalación y Configuración](#-instalación-y-configuración)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Pipeline de Datos (ETL)](#-pipeline-de-datos-etl)
-- [Análisis Exploratorio de Datos (EDA)](#-análisis-exploratorio-de-datos-eda)
-- [Resultados Clave](#-resultados-clave)
-- [Insights y Hallazgos](#-insights-y-hallazgos)
-- [Recomendaciones Estratégicas](#-recomendaciones-estratégicas)
-- [Visualizaciones](#-visualizaciones)
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Problema de Negocio](#problema-de-negocio)
+- [Objetivos](#objetivos)
+- [Tecnologías y Herramientas](#tecnologías-y-herramientas)
+- [Instalación y Configuración](#instalación-y-configuración)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Pipeline de Datos (ETL)](#pipeline-de-datos-etl)
+- [Análisis Exploratorio de Datos (EDA)](#análisis-exploratorio-de-datos-eda)
+- [Resultados Clave](#resultados-clave)
+- [Insights y Hallazgos](#insights-y-hallazgos)
+- [Recomendaciones Estratégicas](#recomendaciones-estratégicas)
+- [Visualizaciones](#visualizaciones)
 
 ---
 
